@@ -1,9 +1,14 @@
 ### Hi there 👋
 
+
+[![](https://androidweekly.net/issues/issue-488/badge)](https://androidweekly.net/issues/issue-488)
+
 <!--
 **lukeforit/lukeforit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+[![](https://androidweekly.net/issues/issue-488/badge)](https://androidweekly.net/issues/issue-488)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
