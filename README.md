@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+#### Projects
+- [App Hunter](https://github.com/lukeforit/app-hunter) - a lightweight job application tracker, hosted at [hunter.app.lukeforit.me](https://hunter.app.lukeforit.me/).
 
+#### _____
 [![](https://androidweekly.net/issues/issue-488/badge)](https://androidweekly.net/issues/issue-488)
-
-Check out my project [App Hunter](https://github.com/lukeforit/app-hunter) - a lightweight job application tracker built for people who value data privacy, hosted at [https://hunter.app.lukeforit.me/](https://hunter.app.lukeforit.me/).
 
 <!--
 **lukeforit/lukeforit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
