@@ -2,6 +2,7 @@
 
 #### Projects
 - [App Hunter](https://github.com/lukeforit/app-hunter) - a lightweight job application tracker, hosted at [hunter.app.lukeforit.me](https://hunter.app.lukeforit.me/).
+- [KMP Blueprint](https://github.com/lukeforit/blueprint-kmp) - a multimodule KMP app setup with mobile, web, desktop targets and Ktor server.
 
 #### _____
 [![](https://androidweekly.net/issues/issue-488/badge)](https://androidweekly.net/issues/issue-488)
